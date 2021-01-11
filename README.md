@@ -2,3 +2,4 @@
 conflict_test
 conflict_test2
 conflict_test3
+conflict_test4
